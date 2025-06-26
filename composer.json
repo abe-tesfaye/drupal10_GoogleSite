@@ -16,10 +16,12 @@
     ],
     "require": {
         "composer/installers": "^2.0",
+        "drupal/charts_chartjs": "^5.0",
         "drupal/core-composer-scaffold": "^10.2",
         "drupal/core-project-message": "^10.2",
         "drupal/core-recommended": "^10.2",
-        "drupal/core-vendor-hardening": "^10.2"
+        "drupal/core-vendor-hardening": "^10.2",
+        "tubalmartin/cssmin": "^4.1"
     },
     "conflict": {
         "drupal/drupal": "*"

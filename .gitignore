@@ -1,0 +1,6 @@
+vendor/
+sites/default/files/
+node_modules/
+web/sites/default/files/
+.env
+.settings.local.php
