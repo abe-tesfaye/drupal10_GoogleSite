@@ -8,7 +8,7 @@ base theme: stark
 regions:
   sidebar: 'Google Sidenar'
   header: 'Header'
-  foorer: 'Footer'
+  footer: 'Footer'
   content: 'Content'
   help: 'Help'
   breadcrumb: 'Breadcrumb'
